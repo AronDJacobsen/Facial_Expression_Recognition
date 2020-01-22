@@ -1,0 +1,14 @@
+Change current working directory to where the videos and python file is
+
+#experiment 1
+open 1.mp4;python livePredictor-exp1.py
+open 2.mp4;python livePredictor-exp1.py
+open 3.mp4;python livePredictor-exp1.py
+open 4.mp4;python livePredictor-exp1.py
+open 5.mp4;python livePredictor-exp1.py
+
+#experiment 2
+open exp2.mp4;python livePredictor-exp2.py
+
+
+
