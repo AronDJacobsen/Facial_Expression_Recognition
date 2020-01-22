@@ -65,7 +65,7 @@ model.add(Dense(32))
 model.add(Activation('relu'))
 model.add(Dropout(rate=0.5))
 
-#final layer of 5 nodes as the number of categories with softmax as activation
+#final layer of 6 nodes as the number of categories with softmax as activation
 model.add(Dense(6))
 #use softmax as works well with multi classification
 model.add(Activation('softmax'))
